@@ -17,5 +17,9 @@ VoiceMelter est une application qui permet d'amplifier la voix en temps réel. E
 - PyAudio
 - NumPy
 
+## INSTALL
+
+- install with "VOICEMELTER WEBSITE" (OPEN HTML OR .ZIP)
+
 
 
